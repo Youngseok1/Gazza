@@ -1,0 +1,3 @@
+openConnection: connect: 그런 파일이나 디렉터리가 없습니다
+cannot connect to brltty at :0
+upstart: update-notifier-cds main process (4025) terminated with status 1

@@ -1,0 +1,184 @@
+OpenGL vendor string:   VMware, Inc.
+OpenGL renderer string: Gallium 0.4 on SVGA3D; build: RELEASE;  LLVM;
+OpenGL version string:  3.0 Mesa 17.0.7
+
+Not software rendered:    [32;01myes[00m
+Not blacklisted:          [32;01myes[00m
+GLX fbconfig:             [32;01myes[00m
+GLX texture from pixmap:  [32;01myes[00m
+GL npot or rect textures: [32;01myes[00m
+GL vertex program:        [32;01myes[00m
+GL fragment program:      [32;01myes[00m
+GL vertex buffer object:  [32;01myes[00m
+GL framebuffer object:    [32;01myes[00m
+GL version is 1.4+:       [32;01myes[00m
+
+Unity 3D supported:       [32;01myes[00m
+Using compiz profile 'ubuntu'
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Starting plugin: opengl
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2018-02-05 20:42:26 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+WARN  2018-02-05 20:42:26 unity.debug.interface DebugDBusInterface.cpp:217 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: 동적 오브젝트 파일을 열 수 없습니다: 그런 파일이나 디렉터리가 없습니다 -- full D-Bus introspection will not be available
+WARN  2018-02-05 20:42:26 unity{?*} <unknown>:0 protocol-scope-discovery.vala:543: Number of elements of OptionIDs doesn't match OptionNames (14 vs 28)
+WARN  2018-02-05 20:42:26 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : 검색 디렉터리 안에 올바른 키 파일이 없습니다
+WARN  2018-02-05 20:42:27 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2018-02-05 20:42:27 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2018-02-05 20:42:28 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-02-05 20:42:28 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2018-02-05 20:42:28 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2018-02-05 20:42:28 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+ERROR 2018-02-05 20:42:29 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
+ERROR 2018-02-05 20:42:29 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
+WARN  2018-02-05 20:42:30 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-02-05 20:42:30 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-02-05 20:42:30 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-02-05 20:42:30 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-02-05 20:42:30 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-02-05 20:42:30 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-02-05 20:42:30 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-02-05 20:42:30 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-02-05 20:42:30 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-02-05 20:42:30 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-02-05 20:42:35 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-02-05 20:53:23 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-02-05 21:13:37 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: 디렉터리를 열 수 없습니다
+WARN  2018-02-05 21:13:41 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2018-02-05 21:13:43 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+ERROR 2018-02-05 21:13:43 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-02-05 21:13:43 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x31f2c50 at position 2. The row has probably been removed
+ERROR 2018-02-05 21:13:43 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x31f2c50 holds a NULL value in row 2
+WARN  2018-02-05 21:13:44 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2018-02-05 21:13:47 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+ERROR 2018-02-05 21:13:47 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-02-05 21:13:47 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x31f2c50 at position 2. The row has probably been removed
+ERROR 2018-02-05 21:13:47 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x31f2c50 holds a NULL value in row 2
+WARN  2018-02-05 21:13:47 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2018-02-05 21:13:48 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+WARN  2018-02-05 21:18:51 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2018-02-05 21:18:52 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+ERROR 2018-02-05 21:22:29 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+1517837403387	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing languages: An unexpected property was found in the WebExtension manifest.
+1517837403393	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing langpack_id: An unexpected property was found in the WebExtension manifest.
+1517837403397	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sources: An unexpected property was found in the WebExtension manifest.
+1517837403486	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1517837403502	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1517837403543	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing languages: An unexpected property was found in the WebExtension manifest.
+1517837403546	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing langpack_id: An unexpected property was found in the WebExtension manifest.
+1517837403547	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sources: An unexpected property was found in the WebExtension manifest.
+1517837403595	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1517837403596	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1517837403658	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing languages: An unexpected property was found in the WebExtension manifest.
+1517837403667	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing langpack_id: An unexpected property was found in the WebExtension manifest.
+1517837403669	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sources: An unexpected property was found in the WebExtension manifest.
+1517837403740	addons.xpi	WARN	Add-on langpack-ko@firefox.mozilla.org is not correctly signed.
+1517837403751	addons.xpi	WARN	Add-on langpack-ko@firefox.mozilla.org is not correctly signed.
+1517837405274	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517837405278	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1517837405280	addons.xpi	WARN	Add-on langpack-ko@firefox.mozilla.org is not compatible with application version.
+1517837405310	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1517837405312	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1517837405313	addons.xpi	WARN	Add-on langpack-ko@firefox.mozilla.org is not correctly signed.
+ERROR 2018-02-05 22:34:02 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+1517837795515	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1517837795516	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1517837795517	addons.xpi	WARN	Add-on langpack-ko@firefox.mozilla.org is not correctly signed.
+1517837796137	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1517837796202	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1517837796216	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1517837796231	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1517837796288	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1517837796710	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1517837796934	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1517837916249	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1517837916250	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1517837916251	addons.xpi	WARN	Add-on langpack-ko@firefox.mozilla.org is not correctly signed.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: loadFile@resource://gre/modules/services-common/blocklist-clients.js:119:30
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+loadDumpFile@resource://gre/modules/services-common/blocklist-clients.js:118:12
+syncCollection@resource://gre/modules/services-common/blocklist-clients.js:212:39
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+
+*************************
+1517838034895	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1517838034899	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1517838034904	addons.xpi	WARN	Add-on langpack-ko@firefox.mozilla.org is not correctly signed.
+WARN  2018-02-05 23:12:49 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+WARN  2018-02-05 23:16:04 nux.inputmethod.ibus InputMethodIBus.cpp:67 Impossible to connect to connect to ibus
+ERROR 2018-02-05 23:34:52 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+

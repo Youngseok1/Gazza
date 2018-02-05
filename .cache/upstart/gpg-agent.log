@@ -1,0 +1,2 @@
+gpg-agent stop/pre-start, process 1097
+gpgconf: warning: can not open config file /home/noh/.gnupg/gpg-agent.conf: 그런 파일이나 디렉터리가 없습니다

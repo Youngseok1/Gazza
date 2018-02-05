@@ -1,0 +1,6 @@
+
+(indicator-keyboard-service:1488): IBUS-CRITICAL **: ibus_bus_call_sync: assertion 'ibus_bus_is_connected (bus)' failed
+
+(indicator-keyboard-service:1488): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(indicator-keyboard-service:1488): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
